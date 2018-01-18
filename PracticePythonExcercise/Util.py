@@ -74,7 +74,30 @@ def call_solution(problem_no):
                     10: PracticePythonExcercise.PracticePythonSolutions.PracticePythonSolution10.solution,
                     11: PracticePythonExcercise.PracticePythonSolutions.PracticePythonSolution11.solution,
                     12: PracticePythonExcercise.PracticePythonSolutions.PracticePythonSolution12.solution,
-                    13: PracticePythonExcercise.PracticePythonSolutions.PracticePythonSolution13.solution
+                    13: PracticePythonExcercise.PracticePythonSolutions.PracticePythonSolution13.solution,
+                    14: PracticePythonExcercise.PracticePythonSolutions.PracticePythonSolution14.solution,
+                    15: PracticePythonExcercise.PracticePythonSolutions.PracticePythonSolution15.solution,
+                    16: PracticePythonExcercise.PracticePythonSolutions.PracticePythonSolution16.solution,
+                    17: PracticePythonExcercise.PracticePythonSolutions.PracticePythonSolution17.solution,
+                    18: PracticePythonExcercise.PracticePythonSolutions.PracticePythonSolution18.solution,
+                    19: PracticePythonExcercise.PracticePythonSolutions.PracticePythonSolution19.solution,
+                    20: PracticePythonExcercise.PracticePythonSolutions.PracticePythonSolution20.solution,
+                    21: PracticePythonExcercise.PracticePythonSolutions.PracticePythonSolution21.solution,
+                    22: PracticePythonExcercise.PracticePythonSolutions.PracticePythonSolution22.solution,
+                    23: PracticePythonExcercise.PracticePythonSolutions.PracticePythonSolution23.solution,
+                    24: PracticePythonExcercise.PracticePythonSolutions.PracticePythonSolution24.solution,
+                    25: PracticePythonExcercise.PracticePythonSolutions.PracticePythonSolution25.solution,
+                    26: PracticePythonExcercise.PracticePythonSolutions.PracticePythonSolution26.solution,
+                    27: PracticePythonExcercise.PracticePythonSolutions.PracticePythonSolution27.solution,
+                    28: PracticePythonExcercise.PracticePythonSolutions.PracticePythonSolution28.solution,
+                    29: PracticePythonExcercise.PracticePythonSolutions.PracticePythonSolution29.solution,
+                    30: PracticePythonExcercise.PracticePythonSolutions.PracticePythonSolution30.solution,
+                    31: PracticePythonExcercise.PracticePythonSolutions.PracticePythonSolution31.solution,
+                    32: PracticePythonExcercise.PracticePythonSolutions.PracticePythonSolution32.solution,
+                    33: PracticePythonExcercise.PracticePythonSolutions.PracticePythonSolution33.solution,
+                    34: PracticePythonExcercise.PracticePythonSolutions.PracticePythonSolution34.solution,
+                    35: PracticePythonExcercise.PracticePythonSolutions.PracticePythonSolution35.solution,
+                    36: PracticePythonExcercise.PracticePythonSolutions.PracticePythonSolution36.solution
                     }
 
     print(
