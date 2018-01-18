@@ -73,8 +73,8 @@ def call_solution(problem_no):
                     9: PracticePythonExcercise.PracticePythonSolutions.PracticePythonSolution09.solution,
                     10: PracticePythonExcercise.PracticePythonSolutions.PracticePythonSolution10.solution,
                     11: PracticePythonExcercise.PracticePythonSolutions.PracticePythonSolution11.solution,
-                    12: PracticePythonExcercise.PracticePythonSolutions.PracticePythonSolution12.solution
-                    # 13: PracticePythonExcercise.PracticePythonSolutions.PracticePythonSolution13.solution,
+                    12: PracticePythonExcercise.PracticePythonSolutions.PracticePythonSolution12.solution,
+                    13: PracticePythonExcercise.PracticePythonSolutions.PracticePythonSolution13.solution
                     }
 
     print(
